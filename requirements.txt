@@ -1,0 +1,14 @@
+google-adk[a2a]>=1.31.1
+mcp>=1.24.0
+google-genai>=1.27.0
+python-dotenv>=1.0.0
+google-cloud-aiplatform[agent_engines]>=1.112.0
+db-dtypes>=1.0.0
+google-cloud-storage>=2.14.0
+a2ui-agent-sdk @ git+https://github.com/google/A2UI.git@ade478faf8dcad611b5efb6b864dcbfbc4a51f68#subdirectory=agent_sdks/python
+a2a-sdk>=0.2.0,<1.0.0
+google-cloud-scheduler>=2.0.0
+google-cloud-pubsub>=2.0.0
+google-cloud-firestore>=2.16.0
+google-cloud-logging>=3.0.0
+opentelemetry-api>=1.20.0
